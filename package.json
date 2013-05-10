@@ -1,0 +1,15 @@
+{
+  "name": "chat-lottery",
+  "version": "0.0.0",
+  "description": "A pseudo-chatroulette clone in Node.js",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "socket.io": "~0.9.0"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
